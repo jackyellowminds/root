@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    ".vscode": false
+  },
+  "spring.initializr.defaultJavaVersion": "11",
+  "git.enabled": true,
+  "java.debug.settings.onBuildFailureProceed": true,
+}
